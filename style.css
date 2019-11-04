@@ -1,0 +1,118 @@
+body{
+	font-family:Helvetica;
+	margin-left: 65px;
+	margin-right: 65px;
+}
+
+h2{
+	font-size: 30px;
+	color: #0ABDD8;
+	text-decoration: underline;
+
+}
+
+
+a {
+	font-family:Helvetica;
+	color: black;
+	text-decoration: none;
+}
+
+.histoire{
+	text-align: center;
+
+}
+
+#jeanne{
+	font-size: 50px;
+	text-align: center;
+	padding: 50px;
+	color: white;
+
+}
+
+.imagecercle{
+	border-radius: 50%;
+	display: flex;
+	margin-right: auto;
+	margin-left: auto;
+	align-items: center;
+	border: 3px solid white;
+}
+
+.profil{
+	background: url(images/ciel.jpg)no-repeat;
+	background-size: 100%;
+}
+
+.contact{
+	color: black;
+	text-align:center;
+	text-decoration:none;
+	padding: 30px;
+	
+}
+
+.histoire{
+	margin-left: auto;
+	margin-right: auto;
+	border-color: grey;
+	border-style: groove;
+	background-color: white;
+	text-align: center;
+	border:1px solid #ccc;
+	box-shadow:1px 1px 3px #999;
+}
+
+.experiences{
+	background-color: white;
+	text-align: center;
+	border:1px solid #ccc;
+	box-shadow:1px 1px 3px #999;
+}
+
+.formations{
+	background-color: white;
+	text-align: center;
+	border:1px solid #ccc;
+	box-shadow:1px 1px 3px #999;
+}
+
+
+li{
+	text-align: left;
+}
+
+
+
+
+.bouton{
+	background-color: #BDF9F8
+	border-color:grey;
+	border-radius: 5px;
+
+}
+
+.langues{
+	display: flex;
+	padding-right: 20px;
+	padding-left: 20px;
+	justify-content: space-between;
+}
+
+.flag{
+	margin: 30px;
+}
+
+.flag2{
+	margin: 30px;
+}
+
+.flag3{
+	margin: 30px;
+}
+
+.logo{
+	border-radius: 30%;
+	margin:10px;
+}
